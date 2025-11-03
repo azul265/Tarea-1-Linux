@@ -1,0 +1,17 @@
+Column	Class	NA_count
+time	character	0
+latitude	numeric	0
+longitude	numeric	0
+depth	numeric	0
+mag	numeric	0
+magType	character	0
+nst	integer	0
+gap	integer	0
+dmin	numeric	0
+rms	numeric	0
+type	character	0
+horizontalError	numeric	0
+depthError	numeric	0
+magError	numeric	0
+magNst	integer	0
+status	character	0
